@@ -1,2 +1,2 @@
 # Keeper
-Created with CodeSandbox
+A simple React.js Application to add/remove sticky notes as  to-do List
